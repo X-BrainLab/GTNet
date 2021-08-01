@@ -4,8 +4,8 @@ Official code for AAAI 2020 paper GTNet: Generative Transfer Network for Zero-Sh
 
 If you find this code useful in your research, please consider citing:
 ```
-@inproceedings{zhao2020pireid,
-  title={Do Not Disturb Me: Person Re-identification Under the Interference of Other Pedestrians},
+@inproceedings{zhao2020gtnet,
+  title={GTNet: Generative Transfer Network for Zero-Shot Object Detection},
   author={Shizhen, Zhao and Changxin, Gao and Yuanjie, Shao and Lerenhan, Li and Changqian, Yu and Zhong, Ji and Nong, Sang},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
   year={2020}
