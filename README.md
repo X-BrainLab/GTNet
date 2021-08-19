@@ -15,6 +15,10 @@ If you find this code useful in your research, please consider citing:
 
 These files are neccessary for training IoUGAN. For the code of Faster RCNN, you can refer to https://github.com/jwyang/faster-rcnn.pytorch.
 
+## Dependencies
+1. PyTorch 0.3.1
+2. Python 3.5
+
 ## Contact
 
 Shizhen Zhao: xbrainzsz@gmail.com
