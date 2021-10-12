@@ -1,6 +1,6 @@
 # GTNet (AAAI 2020)
 
-Official code for AAAI 2020 paper GTNet: Generative Transfer Network for Zero-Shot Object Detection (https://arxiv.org/abs/2001.06812). 
+Official code for AAAI 2020 paper GTNet: Generative Transfer Network for Zero-Shot Object Detection(https://arxiv.org/abs/2001.06812). 
 
 If you find this code useful in your research, please consider citing:
 ```
