@@ -11,9 +11,6 @@ If you find this code useful in your research, please consider citing:
   year={2020}
 }
 ```
-<h2 id="jump">Resouces</h2>
-
-These files are neccessary for training IoUGAN. For the code of Faster RCNN, you can refer to https://github.com/jwyang/faster-rcnn.pytorch.
 
 ## Dependencies
 1. PyTorch 0.3.1
